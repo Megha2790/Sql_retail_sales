@@ -24,7 +24,7 @@ Use SQL to answer specific business questions and derive insights from the sales
 
 Project Structure
 
-1. Database Setup
+Database Setup
 Database Creation:
 The project starts by creating a database named p1_retail_db.
 
@@ -229,12 +229,14 @@ High-Value Transactions: Several transactions had a total sale amount greater th
 Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
 Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
 
-Reports
+Reports:
+
 Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
 Trend Analysis: Insights into sales trends across different months and shifts.
 Customer Insights: Reports on top customers and unique customer counts per category.
 
-Conclusion
+Conclusion:
+
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
 # Sql_retail_sales
