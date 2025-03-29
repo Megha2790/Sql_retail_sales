@@ -2,7 +2,7 @@
 
 
 --Sql Retail Sales Analysis
-'''sql
+
 CREATE DATABASE Sql_DS ;
 
 --Create Table
@@ -71,7 +71,7 @@ SELECT COUNT(DISTINCT customer_id) AS NUMBER_OF_CUSTOMERS  FROM retail_sales;
 SELECT COUNT(DISTINCT category) AS tOTAL_CATEGORIES  FROM retail_sales;
 
 SELECT DISTINCT category AS NAMEoF_CATEGORIES  FROM retail_sales;
-'''
+
 --DATA ANALYSIS AND BUSINESS ANALYSIS PROBLEMS
 
 --Q.1.>Write a SQL query to retrieve all columns for sales made on '2022-11-05
