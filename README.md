@@ -1,10 +1,12 @@
 
-'''sql
+
 
 --Sql Retail Sales Analysis
+'''sql
 CREATE DATABASE Sql_DS ;
-
+'''
 --Create Table
+'''sql
 CREATE TABLE retail_sales
               (
                          transactions_id INT PRIMARY KEY,
@@ -20,7 +22,7 @@ CREATE TABLE retail_sales
                          total_sale FLOAT
 
                );
-
+'''
 SELECT * FROM retail_sales;
 
 SELECT COUNT(*) FROM retail_sales;
