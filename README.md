@@ -186,3 +186,8 @@ GROUP BY shift
 --End of project
 '''
 # Sql_retail_sales
+
+**Try
+'''sql
+select
+'''
